@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './hinh-anh-dep-1.jpg';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          minhngo <code>Addmin</code> Dảk wed.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.facebook.com/profile.php?id=100092964797457"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        Profile
         </a>
       </header>
     </div>
